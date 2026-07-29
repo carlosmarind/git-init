@@ -9,3 +9,5 @@ Este nuevo mensaje lo acabo de escribir despues de mi primer commit, y quiero qu
 Este documento ha sido actualizado para desarrollo, y vamos a probar nuestro primer conflicto
 
 Aca un nuevo cambio documentacion particular para develop
+
+Agregando un nuevo mensaje en la clase del miercoles
