@@ -6,4 +6,8 @@ Este mensaje sera demostrar un cambio en el archivo
 
 Este nuevo mensaje lo acabo de escribir despues de mi primer commit, y quiero que salga en el segundo.
 
-Quiero que perdure este mensaje
+Este documento ha sido actualizado para desarrollo, y vamos a probar nuestro primer conflicto
+
+Aca un nuevo cambio documentacion particular para develop
+
+Agregando un nuevo mensaje en la clase del miercoles
